@@ -23,3 +23,10 @@ Data Structures: Trie, Red-Black Tree, Graphs, Counters
 
 🎓 Academic Context:
 This project was developed as part of my Data Structures and Algorithms (DSA) coursework in the 3rd semester of my undergraduate studies. The goal was to apply core DSA concepts to solve a real-world problem—in this case, building an intelligent word prediction engine.
+
+
+
+![image](https://github.com/user-attachments/assets/309097b9-4fce-4ae0-80b8-c479208de237)
+
+![image](https://github.com/user-attachments/assets/67d2f505-e45a-4b7a-9642-263ef178980a)
+
